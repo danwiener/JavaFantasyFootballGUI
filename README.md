@@ -1,4 +1,4 @@
-# FantasyFootballGUI
+# JavaFantasyFootballGUI
 Fully functional Java fantasy football application/GUI.
 
 Comprised of six classes: FantasyFootballGUI, League, FantasyTeam, Player, FreeAgents, and DataManager.
